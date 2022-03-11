@@ -91,14 +91,14 @@
 - [ ] `A division`
 - [x] `Fork.`
 
-#### Q14What is a smart contract? 
+#### Q14. When a record is in a chain, who can access it?
 
-- [ ] `CodeStack`
-- [ ] `ElasticStack`
-- [ ] `Mobile Hub`
-- [x] `CodeDeploy`
+- [ ] `Nobody`
+- [ ] `Everybody`
+- [ ] `One person at a time`
+- [x] `Only the people involved in the transaction`
 
-#### Q15. How are computing resources allocated to Lambdas?
+#### Q15. What is a smart contract? 
 
 - [ ] `A smart contract is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract`
 - [ ] `computer code running on top of a blockchain containing a set of rules under which the parties to that smart contract agree`
@@ -140,12 +140,12 @@
 - [ ] `Timestamp`
 - [x] `All of the above`
 
-#### Q21. Which is an equivalent and valid tag for a pair of Lambdas?
+#### Q21. When a record is submitted in a blockchain, how can you alter it?
 
-- [ ] `department:Sales,department:Sales`
-- [x] `department:Sales,department:sales`
-- [ ] `aws:demo;aws:demo`
-- [ ] `aws:demo;aws:DEMO`
+- [ ] `Only a miner has the right to modify a record in a certain timeframe`
+- [x] `Once submitted, records cannot be altered`
+- [ ] `Only smart contracts have the right to modify the record`
+- [ ] `You need the public and private key to modify the record`
 
 #### Q22.What is Proof of Stack?.
 
